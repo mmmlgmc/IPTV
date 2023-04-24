@@ -1,4 +1,7 @@
-#这里是IPTV kimcrowing镜像
+# 这里是IPTV kimcrowing镜像
+
+[使用范例]（适用于Xbox等无存储设备）(https://mmmlgmc.github.io/IPTV/3100个全部有效.m3u8)
+
 # Welcome to the IPTV wiki!
 
 # [wiki直播源相关资源汇总](https://github.com/kimcrowing/IPTV/wiki)
